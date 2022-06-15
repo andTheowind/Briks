@@ -1107,6 +1107,7 @@ header {
 .completed-projects .card img {
 	position: relative;
 	border-radius: 20px;
+	width: 100%;
 }
 
 .completed-projects .card h5 {
