@@ -1839,8 +1839,8 @@ footer .call-me {
         display: none;
     }
     .we-are-trusted {
-		display: block;
-	}
+	display: block;
+    }
 
 }
 
@@ -1869,7 +1869,7 @@ footer .call-me {
 		padding-right: 0;
 	}
 	#nav2 a {
-    	font-size: 14px;
+    		font-size: 14px;
 	}
 
 }
@@ -1931,8 +1931,8 @@ footer .call-me {
 		font-size: 18px;
 	}
 	.nav2 .nav-item {
-        margin-right: 0.5rem;
-    }
+        	margin-right: 0.5rem;
+    	}
 	.we-are-trusted h1 {
 		font-size: 46px;
 	}
@@ -1965,13 +1965,6 @@ footer .call-me {
 
 	.slider-team .slick-slide > div {
 		margin: 0 -20px;
-	}
-
-	.slider-team .slick-prev {
-		/*left: -50px;*/
-	}
-	.slider-team .slick-next {
-	          /*right: -25px;*/
 	}
 
 }
